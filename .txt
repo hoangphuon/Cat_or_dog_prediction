@@ -1,0 +1,26 @@
+# Dataset
+data/
+dataset/
+*.jpg
+*.jpeg
+*.png
+
+# Trained models
+models/
+*.pkl
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
